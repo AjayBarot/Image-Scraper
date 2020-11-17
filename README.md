@@ -1,7 +1,7 @@
 Image Scraper - Using Nokogiri
 =====================================
 
-Grab the data from the url which enter by user.
+Fetch the data from input which provided by user
 
 ![Live example](/ImageScraper.gif?raw=true "Live example")
 
